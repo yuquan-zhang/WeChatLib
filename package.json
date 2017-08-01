@@ -1,0 +1,22 @@
+{
+  "name": "wclib",
+  "version": "0.0.1",
+  "description": "A simple nodeJS application for RIKAI Labs Tech interview",
+  "main": "WeChatLib.js",
+  "scripts": {
+    "test": "node WeChatLibTest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuquan-zhang/WeChatLib.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuquan-zhang/WeChatLib/issues"
+  },
+  "homepage": "https://github.com/yuquan-zhang/WeChatLib#readme",
+  "dependencies": {
+    "node-fetch": "^1.7.1"
+  }
+}
